@@ -15,6 +15,6 @@ Sorry I m newbie in writing readme files, lol.
 
 Follow me on my socials it will help me out a lot.
 
-Medium: https://rahulbhatt1899.medium.com/
-Linkedin: https://www.linkedin.com/in/therahulbhatt/
-Discord: DevilRex#6421
+Medium: https://rahulbhatt1899.medium.com/ <br>
+Linkedin: https://www.linkedin.com/in/therahulbhatt/ <br>
+Discord: DevilRex#6421 
